@@ -1,7 +1,7 @@
 node {
 stage('Git Checkout')
   {
-'https://github.com/maruthig123/devops-new/'
+'https://github.com/maruthig123/jenkins-jobs'
   }
 stage('Compile and package')
 {
